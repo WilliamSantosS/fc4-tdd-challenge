@@ -1,5 +1,5 @@
-#Desafio Técnico: Desenvolvimento Orientado a Testes (TDD)  
-#Objetivo:  
+## Desafio Técnico: Desenvolvimento Orientado a Testes (TDD)  
+## Objetivo:  
 Implementar testes utilizando TDD no sistema de reservas de propriedades. Os testes devem cobrir os mappers, criação de usuários (guests) e propriedades via REST, validação de políticas de reembolso, e o serviço de cancelamento de reservas.  
 Instruções  
 Para rodar todos os testes basta rodar:  
