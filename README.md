@@ -1,11 +1,10 @@
 ## Desafio Técnico: Desenvolvimento Orientado a Testes (TDD)  
 ## Objetivo:  
 Implementar testes utilizando TDD no sistema de reservas de propriedades. Os testes devem cobrir os mappers, criação de usuários (guests) e propriedades via REST, validação de políticas de reembolso, e o serviço de cancelamento de reservas.  
-Instruções  
-Para rodar todos os testes basta rodar:  
-npm test  
+## Instruções  
+npm test para rodar todos os testes
 
-Para rodar os testes criados para o desafio separadamente basta rodar os seguintes comandos:  
+## Para rodar os testes criados para o desafio separadamente basta rodar os seguintes comandos:  
 npm test property_mapper.test.ts  
 npm test booking_mapper.test.ts  
 npm test user_controller_e2e.test.ts  
