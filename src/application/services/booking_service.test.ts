@@ -1,8 +1,8 @@
-import { Booking } from "../../domain/entities/booking";
+import { CreateBookingDTO } from "../../application/dtos/create_booking_dto";
 import { BookingService } from "../../application/services/booking_service";
 import { PropertyService } from "../../application/services/property_service";
 import { UserService } from "../../application/services/user_service";
-import { CreateBookingDTO } from "../../application/dtos/create_booking_dto";
+import { Booking } from "../../domain/entities/booking";
 import { FakeBookingRepository } from "../../infrastructure/repositories/fake_booking_repository";
 
 jest.mock("./property_service");
